@@ -2,13 +2,12 @@
 
 An Arduino Library for Nokia 6100 LCD with Epson & Phillips chipset
 by Jim LINDBLOM from SparkFun Electronics 
-Fork By VERHILLE Arnaud
+Forked By VERHILLE Arnaud
 
 This is a simple Arduino library for use specifically with SparkFun Electronics' [Color LCD Shield](http://www.sparkfun.com/products/9363). It'll no doubt work with other incarnations of LCD breakouts and what not, you just might have to do some modifying of the pin defintions.
 
-## License
-Creative Commons Share-alike 3.0 ([CC-BY SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)). Use this code however you'd like, just keep this license and attribute. Let us Color LCD Shield
-================
+# License
+Creative Commons Share-alike 3.0 ([CC-BY SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)). Use this code however you'd like, just keep this license and attribute.
 
 [![Color LCD Shield](https://dlnmh9ip6v2uc.cloudfront.net/images/products/9/3/6/3/09363-01b_i_ma.jpg)  
 *Color LCD Shield (LCD-09363)*](https://www.sparkfun.com/products/9363)
